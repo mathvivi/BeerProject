@@ -1,3 +1,3 @@
 # BeerProject
 LSINF1212 Projet approfondissement en sciences informatiques 
-Nicky aime les CHATTES 88
+Nicky aime les CHATTES ou pas 
