@@ -21,7 +21,7 @@ var degree;
     for (var i=0; i<this.cote.length; i++){
       total += this.cote[i];
     }
-    return total/this.cote.length;
+    return (total/this.cote.length);
 }
 
   setDegree(){
